@@ -1,4 +1,3 @@
-
 """
 Geçerli bir parantez dizesi s verildiğinde, s'nin yuvalama derinliğini döndürün. Yuvalama derinliği, iç içe geçmiş parantezlerin maksimum sayısıdır.
 
