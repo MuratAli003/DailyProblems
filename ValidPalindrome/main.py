@@ -1,4 +1,3 @@
-
 """
     Tüm büyük harfleri küçük harflere dönüştürdükten ve alfasayısal olmayan tüm karakterleri kaldırdıktan sonra aynı şeyi ileri ve geri okursa, bir ifade bir palindromdur. Alfasayısal karakterler harfleri ve sayıları içerir.
 
