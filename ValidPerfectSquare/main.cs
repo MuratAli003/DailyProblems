@@ -1,3 +1,4 @@
+
 """
 Pozitif bir tamsayı num verildiğinde, num mükemmel bir kare ise true veya aksi takdirde false döndürün.
 
