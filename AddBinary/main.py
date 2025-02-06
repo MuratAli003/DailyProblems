@@ -31,4 +31,5 @@ def addBinary(a, b):
         res = numA + numB
 
         res = bin(res)
+        
         return res[2:len(res)]
