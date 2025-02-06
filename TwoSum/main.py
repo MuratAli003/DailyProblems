@@ -22,6 +22,7 @@ Giriş: sayılar = [3,2,4], hedef = 6
 
 """
 
+
 def twoSum(nums, target):
         """
         :type nums: List[int]
