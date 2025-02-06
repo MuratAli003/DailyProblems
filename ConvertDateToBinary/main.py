@@ -17,6 +17,7 @@ Açıklama:
 
 """
 
+
 def convertDateToBinary(date):
         """
         :type date: str
