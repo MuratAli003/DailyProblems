@@ -18,7 +18,6 @@ Tam ikili ağaç, her düğümün 0 veya 2 çocuğu olduğu bir ikili ağaçtır
 Yaprak düğümü, sıfır çocuğu olan bir düğümdür.
 """
 
-
 public class TreeNode {
 
      public int val;
