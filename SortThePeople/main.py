@@ -19,6 +19,7 @@ Açıklama: Mary en uzun boylu, onu Emma ve John takip ediyor.
 def sortPeople(names, heights):
     
         result = []
+        
         while len(names) > 0:
 
             indx = heights.index(max(heights))
