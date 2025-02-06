@@ -5,6 +5,7 @@ Tuğlalar arasındaki boşluklardan geçilmeye çalışılmaktadır. En az tuğl
 """
 
 def leastBricks(wall):
+        
         """
         :type wall: List[List[int]]
         :rtype: int
