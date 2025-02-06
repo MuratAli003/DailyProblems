@@ -2,6 +2,7 @@ public class Solution
 {    
     public string DecodeString(string s)
         {
+            
             Stack<int> nums = new Stack<int>();
             Stack<StringBuilder> strings = new Stack<StringBuilder>();
             StringBuilder output = new StringBuilder();
