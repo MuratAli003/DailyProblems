@@ -4,6 +4,7 @@ class ListNode(object):
        self.next = next
        
 class Solution(object):
+    
     def isPalindrome(self, head):
         
         newList = []
