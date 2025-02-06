@@ -11,6 +11,7 @@ Giriş: strs = ["flower","flow","flight"]
 
 """
 
+
 from xmlrpc.client import boolean
 
 
