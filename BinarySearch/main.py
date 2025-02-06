@@ -1,3 +1,4 @@
+
 """
 Artan sırayla sıralanmış bir tamsayı sayısı dizisi ve bir tamsayı hedefi verildiğinde, hedefi sayılarda aramak için bir işlev yazın. Hedef varsa, indeksini döndürün. Aksi takdirde, -1'i döndürün.
 
