@@ -15,7 +15,6 @@ Output: "a"
 
 """
 
-
 def clearDigits(self, s):
         
         result = []
