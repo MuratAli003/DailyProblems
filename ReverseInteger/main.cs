@@ -1,5 +1,4 @@
 """
-
 İmzalı bir 32 bit tam sayı x verildiğinde, x'i basamakları ters çevrilmiş olarak döndürün. X'i tersine çevirmek, değerin imzalı 32 bit tamsayı aralığının [-231, 231 - 1] dışına çıkmasına neden olursa, 0 döndürün.
 
 Ortamın 64 bit tamsayıları (imzalı veya imzasız) depolamanıza izin vermediğini varsayalım.
@@ -22,6 +21,7 @@ Giriş: x = 120
 
 Çıktı: 21
 """
+
 
 public static int Reverse(int x)
 {
