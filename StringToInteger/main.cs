@@ -1,5 +1,4 @@
 """
-
 Bir dizeyi 32 bit işaretli bir tamsayıya dönüştüren myAtoi(string s) işlevini uygulayın.
 
 myAtoi(string s) algoritması aşağıdaki gibidir:
