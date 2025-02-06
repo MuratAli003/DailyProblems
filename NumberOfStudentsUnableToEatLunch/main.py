@@ -12,6 +12,7 @@
 	•	Yemek yiyemeyen öğrenci sayısını döndürmek.
 
 
+
 Giriş: öğrenciler = [1,1,0,0], sandviçler = [0,1,0,1]
 
 Çıktı: 0
