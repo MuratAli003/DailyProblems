@@ -1,4 +1,3 @@
-
 """
 Azalmayan sırayla sıralanmış bir tamsayı sayısı dizisi verildiğinde, belirli bir hedef değerin başlangıç ve bitiş konumunu bulun.
 
