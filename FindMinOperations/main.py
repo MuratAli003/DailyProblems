@@ -25,6 +25,7 @@ Tüm dizi elemanları 3 işlem kullanılarak 3'e bölünebilir hale getirilebili
 def minimumOperations(nums):
         
     result = 0
+    
     for i in nums:
 
         if i % 3 != 0:
