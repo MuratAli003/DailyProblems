@@ -1,2 +1,2 @@
 # DailyProblems
-<p>Günlük Uğraştığım Problemleri ve Çözümlerini İçerir </p>
+<p>This page contains the questions I solved on leetcode. </p>
